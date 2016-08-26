@@ -1,0 +1,13 @@
+{
+  "name": "lucifer",
+  "main": [
+    "src/assets/stylesheets/foundation.css",
+    "src/assets/javascript/foundation.js"
+  ],
+  "ignore": [],
+  "dependencies": {
+    "foundation-sites": "~6.2.3",
+    "motion-ui" : "~1.2.2",
+    "fontawesome": "~4.6.3"
+  }
+}

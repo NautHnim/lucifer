@@ -1,0 +1,14 @@
+.DS_Store
+*.sass-cache*
+*.log
+node_modules/
+src/assets/stylesheets/
+src/assets/components/
+src/assets/javascript/vendor/
+src/assets/javascript/foundation.js
+src/assets/javascript/custom/demosite.js
+packaged/
+wpcs/
+
+.idea
+.idea/
