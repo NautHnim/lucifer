@@ -1,8 +1,8 @@
 {
   "name": "lucifer",
   "main": [
-    "src/assets/stylesheets/foundation.css",
-    "src/assets/javascript/foundation.js"
+    "src/lucifer/assets/stylesheets/foundation.css",
+    "src/lucifer/assets/javascript/foundation.js"
   ],
   "ignore": [],
   "dependencies": {

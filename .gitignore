@@ -2,11 +2,11 @@
 *.sass-cache*
 *.log
 node_modules/
-src/assets/stylesheets/
-src/assets/components/
-src/assets/javascript/vendor/
-src/assets/javascript/foundation.js
-src/assets/javascript/custom/demosite.js
+src/lucifer/assets/stylesheets/
+src/lucifer/assets/components/
+src/lucifer/assets/javascript/vendor/
+src/lucifer/assets/javascript/foundation.js
+src/lucifer/assets/javascript/custom/demosite.js
 packaged/
 wpcs/
 

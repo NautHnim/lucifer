@@ -30,5 +30,11 @@
 
 <?php wp_footer(); ?>
 <?php do_action( 'foundationpress_before_closing_body' ); ?>
+
+<!-- BS:SNIPPET--><script id="__bs_script__">//<![CDATA[
+    document.write("<script async src='http://HOST:3000/browser-sync/browser-sync-client.2.14.0.js'><\/script>".replace("HOST", location.hostname));
+//]]></script>
+<!-- BS:SNIPPET:END-->
+
 </body>
 </html>
